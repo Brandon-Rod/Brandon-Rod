@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Bell**, a SwiftUI app that uses Core Data, CloudKit, WidgetKit, and so much more. 
 
-- 🌱 I’m currently learning **iOS Development**
-
 - 📫 How to reach me **rodriguezbrandon953@gmail.com**
 
 ## Amiibo
@@ -40,29 +38,6 @@ A SwiftUI app that uses MapKit.
 - Equatable
 
 ### https://github.com/Brandon-Rod/Surface
-
-## GHFollowers
-A UIKit app that fetches data from the Github API in order to obtain users and their followers. 
-
-![Search-Rotato](https://user-images.githubusercontent.com/61842505/165665491-49991634-100c-47c9-8d88-08676db152fb.png)
-
-![Followers-Rotato](https://user-images.githubusercontent.com/61842505/165665503-830e39ed-d7ba-40c3-bb73-5feaacbdf2c6.png)
-
-![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/165665517-d0b9c539-1aea-42b9-8a12-9be89ce6f3c2.png)
-
-### Disclaimer
-This project is a course I followed. Here is a link to the course https://seanallen.teachable.com/p/take-home
-
-### Technologies Used
-- CollectionView
-- Diffable Data Source
-- NSCache
-- Search Functionality 
-- User Defaults
-- Async/Await For Network Calls
-- Result
-
-### https://github.com/Brandon-Rod/GHFollowers
 
 ## Faces
 A UIKIT app that uses Core Data.
