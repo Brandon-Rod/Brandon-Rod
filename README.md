@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/the_shadow_14" target="blank"><img src="https://img.shields.io/twitter/follow/the_shadow_14?logo=twitter&style=for-the-badge" alt="the_shadow_14" /></a> </p>
 
+<h1 align="center">A pasionate iOS developer from the United States</h1>
+
 - 🔭 I’m currently working on **Bell**, a SwiftUI app that uses Core Data, CloudKit, WidgetKit, and so much more. 
 
 - 🌱 I’m currently learning **iOS Development**
