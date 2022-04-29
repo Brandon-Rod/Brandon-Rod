@@ -22,7 +22,7 @@ Amiibo is a SwiftUI app that fetches data from a RESTful api
 - Search Functionality 
 - Result
 
-### https://github.com/Brandon-Rod/Amiibo
+### Learn more about Amiibo: https://github.com/Brandon-Rod/Amiibo
 
 ## Surface
 A SwiftUI app that uses MapKit.
@@ -37,7 +37,7 @@ A SwiftUI app that uses MapKit.
 - MapKit
 - Equatable
 
-### https://github.com/Brandon-Rod/Surface
+### Learn more about Surface: https://github.com/Brandon-Rod/Surface
 
 ## Faces
 A UIKIT app that uses Core Data.
@@ -55,7 +55,7 @@ A UIKIT app that uses Core Data.
 - Search Functionality
 - UIImagePickerController
 
-### https://github.com/Brandon-Rod/Faces/blob/main/README.md
+### Learn more about Faces: https://github.com/Brandon-Rod/Faces/blob/main/README.md
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
