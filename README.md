@@ -55,7 +55,7 @@ A UIKIT app that uses Core Data.
 - Search Functionality
 - UIImagePickerController
 
-### Learn more about Faces: https://github.com/Brandon-Rod/Faces/blob/main/README.md
+### Learn more about Faces: https://github.com/Brandon-Rod/Faces
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
