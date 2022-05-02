@@ -1,4 +1,6 @@
-![Header](https://user-images.githubusercontent.com/61842505/165664735-8d31da70-5581-47c4-9354-6c2d27f9f9e5.png)
+![Header](https://user-images.githubusercontent.com/61842505/166177874-7b44e75e-66a5-4e20-8754-9821997ef10a.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Brandon Rodriguez</h1>
 
 <h1 align="center">A pasionate iOS developer from the United States</h1>
