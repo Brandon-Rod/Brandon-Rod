@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Brandon Rodriguez</h1>
 
-<h1 align="center">A pasionate iOS developer from the United States</h1>
+<h1 align="center">A passionate iOS developer from the United States</h1>
 
 - 🔭 I’m currently working on **Bell**, a SwiftUI app that uses Core Data, CloudKit, WidgetKit, and so much more. 
 
