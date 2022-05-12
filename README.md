@@ -42,7 +42,7 @@ A SwiftUI app that uses MapKit.
 ### Learn more about Surface: https://github.com/Brandon-Rod/Surface
 
 ## Faces
-A UIKIT app that uses Core Data.
+A UIKit app that uses Core Data.
 
 ![EmptyState-Rotato](https://user-images.githubusercontent.com/61842505/165665809-94e90b67-30a7-4194-a50d-7fc17b6fdb0b.png)
 
