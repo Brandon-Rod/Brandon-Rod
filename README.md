@@ -10,7 +10,7 @@
 - 📫 How to reach me **rodriguezbrandon953@gmail.com**
 
 ## Amiibo
-Amiibo is a SwiftUI app that fetches data from a RESTful api 
+Amiibo is a SwiftUI app that fetches data from a RESTful API.  
 
 ![Amiibo-Home](https://user-images.githubusercontent.com/61842505/165664805-9fed488c-2df8-4755-99ab-4251bde180a4.png)
 
