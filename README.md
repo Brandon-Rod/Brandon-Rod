@@ -46,7 +46,7 @@ A UIKit app that uses Core Data.
 
 ![EmptyState-Rotato](https://user-images.githubusercontent.com/61842505/165665809-94e90b67-30a7-4194-a50d-7fc17b6fdb0b.png)
 
-![Birthday-Rotato](https://user-images.githubusercontent.com/61842505/165665868-310137aa-59a1-4ad9-80c1-73dafa6ce3e6.png)
+![Grids-Rotato](https://user-images.githubusercontent.com/61842505/168718438-be8a0089-d86e-4353-8c40-fff1c6aa2e45.png)
 
 ![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/165665906-da9f984d-b832-4412-a989-4333eb7b1d49.png)
 
