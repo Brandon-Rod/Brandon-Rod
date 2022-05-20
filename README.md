@@ -19,7 +19,6 @@ Bell-ToDo is a to-do list app made in SwiftUI.
 ![Settings-Rotato](https://user-images.githubusercontent.com/61842505/169424658-a879be3a-c104-454b-8d77-6e4fc85526e1.png)
 
 ### Technologies Used
-- SwiftUI 
 - Core Data
 - CloudKit 
 - Core Spotlight 
