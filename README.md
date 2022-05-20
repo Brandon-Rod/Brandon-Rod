@@ -28,7 +28,7 @@ Bell-ToDo is a to-do list app made in SwiftUI.
 - UIImagePickerController
 - StoreKit
 
-### Download on the App Store: https://apps.apple.com/us/app/bell-todo/id1624798014?itsct=apps_box_link&itscg=30200
+### Download on the App Store: https://apple.co/39AcWtV
 
 ## Amiibo
 Amiibo is a SwiftUI app that fetches data from a RESTful API.  
