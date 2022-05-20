@@ -5,9 +5,30 @@
 
 <h1 align="center">A passionate iOS developer from the United States</h1>
 
-- 🔭 I’m currently working on **Bell**, a SwiftUI app that uses Core Data, CloudKit, WidgetKit, and so much more. 
+- 🔭 I’m currently working on updates for **Bell-ToDo**.
 
 - 📫 How to reach me **rodriguezbrandon953@gmail.com**
+
+## Bell-ToDo
+Bell-ToDo is a to-do list app made in SwiftUI. 
+
+![Home-Rotato](https://user-images.githubusercontent.com/61842505/169424641-3aa9654f-815d-4149-9d86-c8c22fbb7c21.png)
+
+![ListDetail-Rotato](https://user-images.githubusercontent.com/61842505/169424651-189e657f-39a7-476a-8cd3-e5ea510e3ec9.png)
+
+![Settings-Rotato](https://user-images.githubusercontent.com/61842505/169424658-a879be3a-c104-454b-8d77-6e4fc85526e1.png)
+
+### Technologies Used
+- SwiftUI 
+- Core Data
+- CloudKit 
+- Core Spotlight 
+- WidgetKit
+- UIActivityController
+- UIImagePickerController
+- StoreKit
+
+### Download on the App Store: https://apps.apple.com/us/app/bell-todo/id1624798014?itsct=apps_box_link&itscg=30200
 
 ## Amiibo
 Amiibo is a SwiftUI app that fetches data from a RESTful API.  
