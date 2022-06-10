@@ -34,9 +34,9 @@ Amiibo is a SwiftUI app that fetches data from a RESTful API.
 
 ![Amiibo-Home](https://user-images.githubusercontent.com/61842505/165664805-9fed488c-2df8-4755-99ab-4251bde180a4.png)
 
-![Amiibo-Favorites](https://user-images.githubusercontent.com/61842505/165664798-b417a6e6-f7c9-4613-a6e8-b1bdf2cbe306.png)
-
 ![Amiibo-FavoriteAlert](https://user-images.githubusercontent.com/61842505/165664791-93e6ed44-9778-4d7b-a40f-2aeadb8eb7cd.png)
+
+![Amiibo-Favorites](https://user-images.githubusercontent.com/61842505/165664798-b417a6e6-f7c9-4613-a6e8-b1bdf2cbe306.png)
 
 ### Technologies Used
 - User Defaults
