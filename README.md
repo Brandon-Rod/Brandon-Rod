@@ -12,11 +12,11 @@
 ## Bell-ToDo
 Bell-ToDo is a to-do list app made in SwiftUI. 
 
-![Home-Rotato](https://user-images.githubusercontent.com/61842505/169424641-3aa9654f-815d-4149-9d86-c8c22fbb7c21.png)
+![Home](https://user-images.githubusercontent.com/61842505/178125501-1f99220e-83c7-4216-abe0-8158cfbb4a48.png)
 
-![ListDetail-Rotato](https://user-images.githubusercontent.com/61842505/169424651-189e657f-39a7-476a-8cd3-e5ea510e3ec9.png)
+![Customizable Items](https://user-images.githubusercontent.com/61842505/178125507-48aa1233-2466-4f36-8ea6-267a85da6e6a.png)
 
-![Settings-Rotato](https://user-images.githubusercontent.com/61842505/169424658-a879be3a-c104-454b-8d77-6e4fc85526e1.png)
+![Settings](https://user-images.githubusercontent.com/61842505/178125508-f622aa96-f8be-4828-9b6f-09888ea37491.png)
 
 ### Technologies Used
 - Core Data
