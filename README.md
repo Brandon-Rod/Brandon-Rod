@@ -10,7 +10,8 @@
 - 📫 How to reach me **rodriguezbrandon953@gmail.com**
 
 ## Bell-ToDo
-Bell-ToDo is a to-do list app made in SwiftUI. 
+A to-do list app where users can create and customize items by changing their appearance, adding an icon, adding reminders, adding images, and locking items.
+
 
 ![Home](https://user-images.githubusercontent.com/61842505/178125564-08b98a00-91df-4634-9cdd-0c98338a56cf.png)
 
@@ -19,6 +20,7 @@ Bell-ToDo is a to-do list app made in SwiftUI.
 ![Settings](https://user-images.githubusercontent.com/61842505/178125567-bcf8b390-be09-415f-8c9c-49ee1ee4f90f.png)
 
 ### Technologies Used
+- SwiftUI
 - Core Data
 - CloudKit 
 - Core Spotlight 
@@ -30,7 +32,7 @@ Bell-ToDo is a to-do list app made in SwiftUI.
 ### Download on the App Store: https://apple.co/39AcWtV
 
 ## Amiibo
-Amiibo is a SwiftUI app that fetches data from a RESTful API.  
+An app that lets users search up Amiibo and add them to favorites.   
 
 ![Amiibo-Home](https://user-images.githubusercontent.com/61842505/165664805-9fed488c-2df8-4755-99ab-4251bde180a4.png)
 
@@ -39,6 +41,7 @@ Amiibo is a SwiftUI app that fetches data from a RESTful API.
 ![Amiibo-Favorites](https://user-images.githubusercontent.com/61842505/165664798-b417a6e6-f7c9-4613-a6e8-b1bdf2cbe306.png)
 
 ### Technologies Used
+- SwiftUI
 - User Defaults
 - NSCasche
 - Search Functionality 
@@ -47,7 +50,7 @@ Amiibo is a SwiftUI app that fetches data from a RESTful API.
 ### Learn more about Amiibo: https://github.com/Brandon-Rod/Amiibo
 
 ## Surface
-A SwiftUI app that uses MapKit.
+An app that integrates Apple Maps and allows users to set pins.
 
 ![Surface-Maps](https://user-images.githubusercontent.com/61842505/165665126-75b48293-d4da-48ca-804b-0114107c3abb.png)
 
@@ -56,13 +59,14 @@ A SwiftUI app that uses MapKit.
 ![Surface-EditItem](https://user-images.githubusercontent.com/61842505/165665173-b467aee2-fd17-4d8b-848a-65060c33fe44.png)
 
 ### Technologies Used
+- SwiftUI
 - MapKit
 - Equatable
 
 ### Learn more about Surface: https://github.com/Brandon-Rod/Surface
 
 ## Faces
-A UIKit app that uses Core Data.
+An app that helps users remember people they’ve met by creating users and inputing their information. 
 
 ![EmptyState-Rotato](https://user-images.githubusercontent.com/61842505/165665809-94e90b67-30a7-4194-a50d-7fc17b6fdb0b.png)
 
@@ -71,6 +75,7 @@ A UIKit app that uses Core Data.
 ![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/165665906-da9f984d-b832-4412-a989-4333eb7b1d49.png)
 
 ### Technologies Used
+- UIKit
 - Core Data
 - UITableViewController
 - CAEmittedLayer
