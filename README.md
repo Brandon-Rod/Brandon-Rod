@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/61842505/209724229-42a78dee-a18c-4686-9264-6094de2cea82.png)
+![Header](https://user-images.githubusercontent.com/61842505/209724472-20d3416a-f28b-4240-aa37-de736f0e3cf9.png)
 
 <h1 align="center">Hi 👋, I'm Brandon Rodriguez</h1>
 
