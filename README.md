@@ -51,11 +51,11 @@ An app that lets users search up Amiibo and add them to favorites.
 ## Surface
 An app that integrates Apple Maps and allows users to set pins.
 
-![Surface-Maps](https://user-images.githubusercontent.com/61842505/165665126-75b48293-d4da-48ca-804b-0114107c3abb.png)
+![Map-Rotato](https://user-images.githubusercontent.com/61842505/210627482-bd8d321b-1cdf-4a34-b88c-be855d7a9c4d.png)
 
-![Surface-LocationDetails](https://user-images.githubusercontent.com/61842505/165665153-04b94221-8057-4528-990f-30321f926d0c.png)
+![Location-Rotato](https://user-images.githubusercontent.com/61842505/210627506-541e9249-e29b-40ef-a6c2-7930a031ff06.png)
 
-![Surface-EditItem](https://user-images.githubusercontent.com/61842505/165665173-b467aee2-fd17-4d8b-848a-65060c33fe44.png)
+![EditItem-Rotato](https://user-images.githubusercontent.com/61842505/210627591-21d3a8ff-478e-4115-b5ba-007838ed8341.png)
 
 ### Technologies Used
 - SwiftUI
