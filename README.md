@@ -33,11 +33,11 @@ A to-do list app where users can create and customize items by changing their ap
 ## Amiibo
 An app that lets users search up Amiibo and add them to favorites.   
 
-![Amiibo-Home](https://user-images.githubusercontent.com/61842505/165664805-9fed488c-2df8-4755-99ab-4251bde180a4.png)
+![List-Rotato](https://user-images.githubusercontent.com/61842505/210621848-91c92ba4-60df-4bcc-8ac3-0c26bcf368d5.png)
 
-![Amiibo-FavoriteAlert](https://user-images.githubusercontent.com/61842505/165664791-93e6ed44-9778-4d7b-a40f-2aeadb8eb7cd.png)
+![AddedToFavorites-Rotato](https://user-images.githubusercontent.com/61842505/210621868-fe809fe0-a842-4b7f-8a10-a7310c09b764.png)
 
-![Amiibo-Favorites](https://user-images.githubusercontent.com/61842505/165664798-b417a6e6-f7c9-4613-a6e8-b1bdf2cbe306.png)
+![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/210621878-0beee2f4-8fa0-44b1-a46a-4001ed03d220.png)
 
 ### Technologies Used
 - SwiftUI
