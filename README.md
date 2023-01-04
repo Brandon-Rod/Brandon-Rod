@@ -66,12 +66,11 @@ An app that integrates Apple Maps and allows users to set pins.
 
 ## Faces
 An app that helps users remember people they’ve met by creating users and inputing their information. 
+![Home-Rotato](https://user-images.githubusercontent.com/61842505/210624592-f6a29470-249c-466c-bed7-4544e2014de2.png)
 
-![EmptyState-Rotato](https://user-images.githubusercontent.com/61842505/165665809-94e90b67-30a7-4194-a50d-7fc17b6fdb0b.png)
+![Grids-Rotato](https://user-images.githubusercontent.com/61842505/210624403-07419279-e8e2-4725-942f-af7be349d37c.png)
 
-![Grids-Rotato](https://user-images.githubusercontent.com/61842505/168718872-87cd0a02-5aca-4650-b2c0-ea1ca939e079.png)
-
-![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/165665906-da9f984d-b832-4412-a989-4333eb7b1d49.png)
+![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/210624436-4639fba0-564a-4fbc-b66c-f2c336ff9f6f.png)
 
 ### Technologies Used
 - UIKit
