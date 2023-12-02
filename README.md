@@ -20,11 +20,9 @@ A to-do list app where users can create and customize items by changing their ap
 ### Technologies Used
 - SwiftUI
 - Core Data
-- CloudKit 
 - Core Spotlight 
 - WidgetKit
-- UIActivityController
-- UIImagePickerController
+- PhotosPicker
 - StoreKit
 
 ### Download on the App Store: https://apple.co/39AcWtV
