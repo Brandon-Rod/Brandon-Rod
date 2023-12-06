@@ -11,11 +11,11 @@
 ## Bell-ToDo
 A to-do list app where users can create and customize items by changing their appearance, adding an icon, adding reminders, adding images, and locking items.
 
-![Home-Rotato](https://user-images.githubusercontent.com/61842505/210623466-8dc02ded-23d9-4b40-b836-fc2d61f364ca.png)
+![Home-Rotato](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/a121b351-bb0f-4df2-a7d9-a3b8b35ff0d9)
 
-![CustomizableItems-Rotato](https://user-images.githubusercontent.com/61842505/210623477-fe16d0ac-a055-4c8b-bb8b-8bb96d9f2f96.png)
+![ListDetail-Rotato](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/88d71a48-0417-411e-bec5-0b1a808a7927)
 
-![EditItem-Rotato](https://user-images.githubusercontent.com/61842505/210623503-c751c58e-e15e-4f0f-82a9-c2c24e200fc4.png)
+![EditItem-Rotato](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/fa96e004-1989-4695-955d-260f927bdd6b)
 
 ### Technologies Used
 - SwiftUI
