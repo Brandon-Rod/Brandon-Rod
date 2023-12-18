@@ -4,8 +4,6 @@
 
 <h1 align="center">A passionate iOS developer from the United States</h1>
 
-- 🔭 I’m currently working on updates for **Bell-ToDo**
-
 - 📫 How to reach me **rodriguezbrandon953@gmail.com**
 
 ## Bell-ToDo
