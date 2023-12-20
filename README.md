@@ -26,7 +26,7 @@ A to-do list app where users can create and customize items by changing their ap
 ### Download on the App Store: https://apple.co/39AcWtV
 
 ## Crescent
-Having trouble recalling what you worked on? Document every step
+Having trouble recalling what you worked on? Document every step.
 
 ![Home](https://github.com/Brandon-Rod/Crescent/assets/61842505/4749ee26-18c0-4a02-9edd-b364cb2d7cc5)
 
