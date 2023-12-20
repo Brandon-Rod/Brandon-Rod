@@ -25,6 +25,22 @@ A to-do list app where users can create and customize items by changing their ap
 
 ### Download on the App Store: https://apple.co/39AcWtV
 
+## Crescent
+Having trouble recalling what you worked on? Document every step
+
+![Home](https://github.com/Brandon-Rod/Crescent/assets/61842505/4749ee26-18c0-4a02-9edd-b364cb2d7cc5)
+
+![ProjectDetail](https://github.com/Brandon-Rod/Crescent/assets/61842505/143ba859-256f-4946-b5bc-c87c10a91c79)
+
+![EditProject](https://github.com/Brandon-Rod/Crescent/assets/61842505/ac16b71e-393b-497f-a824-d4b711c778a4)
+
+## Technologies Used
+- SwiftUI
+- Core Data
+- PhotosUI
+
+### Download on the App Store: https://apple.co/41vdHLG
+
 ## Amiibo
 An app that lets users search up Amiibo and add them to favorites.   
 
@@ -59,25 +75,6 @@ An app that integrates Apple Maps and allows users to set pins.
 - Equatable
 
 ### Learn more about Surface: https://github.com/Brandon-Rod/Surface
-
-## Faces
-An app that helps users remember people they’ve met by creating users and inputing their information. 
-
-![Home-Rotato](https://user-images.githubusercontent.com/61842505/210624592-f6a29470-249c-466c-bed7-4544e2014de2.png)
-
-![Grids-Rotato](https://user-images.githubusercontent.com/61842505/210624403-07419279-e8e2-4725-942f-af7be349d37c.png)
-
-![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/210624436-4639fba0-564a-4fbc-b66c-f2c336ff9f6f.png)
-
-### Technologies Used
-- UIKit
-- Core Data
-- UITableViewController
-- CAEmittedLayer
-- Search Functionality
-- UIImagePickerController
-
-### Learn more about Faces: https://github.com/Brandon-Rod/Faces
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
