@@ -38,6 +38,7 @@ Having trouble recalling what you worked on? Document every step.
 - SwiftUI
 - Core Data
 - PhotosUI
+- StoreKit
 
 ### Download on the App Store: https://apple.co/41vdHLG
 
