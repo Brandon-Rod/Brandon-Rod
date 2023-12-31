@@ -61,22 +61,6 @@ An app that lets users search up Amiibo and add them to favorites.
 
 ### Learn more about Amiibo: https://github.com/Brandon-Rod/Amiibo
 
-## Surface
-An app that integrates Apple Maps and allows users to set pins.
-
-![Map-Rotato](https://user-images.githubusercontent.com/61842505/210627482-bd8d321b-1cdf-4a34-b88c-be855d7a9c4d.png)
-
-![Location-Rotato](https://user-images.githubusercontent.com/61842505/210627506-541e9249-e29b-40ef-a6c2-7930a031ff06.png)
-
-![EditItem-Rotato](https://user-images.githubusercontent.com/61842505/210627591-21d3a8ff-478e-4115-b5ba-007838ed8341.png)
-
-### Technologies Used
-- SwiftUI
-- MapKit
-- Equatable
-
-### Learn more about Surface: https://github.com/Brandon-Rod/Surface
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/B_Rod_Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_shadow_14" height="30" width="40" /></a>
