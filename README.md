@@ -55,9 +55,6 @@ An app that lets users search up Amiibo and add them to favorites.
 - SwiftUI
 - XCTest
 - User Defaults
-- NSCasche
-- Search Functionality 
-- Result
 
 ### Learn more about Amiibo: https://github.com/Brandon-Rod/Amiibo
 
