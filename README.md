@@ -43,7 +43,7 @@ Having trouble recalling what you worked on? Document every step.
 ### Download on the App Store: https://apple.co/41vdHLG
 
 ## Amiibo
-An app that lets users search up Amiibo and add them to favorites.   
+An app that lets users fetch Amiibo from a RESTful API and store them in SwiftData. 
 
 ![List-Rotato](https://user-images.githubusercontent.com/61842505/210621848-91c92ba4-60df-4bcc-8ac3-0c26bcf368d5.png)
 
