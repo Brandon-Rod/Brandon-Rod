@@ -45,11 +45,13 @@ Having trouble recalling what you worked on? Document every step.
 ## Amiibo
 An app that lets users fetch Amiibo from a RESTful API and store them in SwiftData. 
 
-![List-Rotato](https://user-images.githubusercontent.com/61842505/210621848-91c92ba4-60df-4bcc-8ac3-0c26bcf368d5.png)
+![Grid](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/a5a9de0a-e155-4a6a-b7d6-a373efe5241a)
 
-![AddedToFavorites-Rotato](https://user-images.githubusercontent.com/61842505/210621868-fe809fe0-a842-4b7f-8a10-a7310c09b764.png)
+![List](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/99ecd64e-58c3-447c-8615-e6ea33efc6fa)
 
-![Favorites-Rotato](https://user-images.githubusercontent.com/61842505/210621878-0beee2f4-8fa0-44b1-a46a-4001ed03d220.png)
+![AddedToFavorites](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/afc92d76-8b80-494e-9664-166f63cbaebf)
+
+![Favorites](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/f3289654-c85f-4c4f-9fd9-040b38a99995)
 
 ### Technologies Used
 - SwiftUI
