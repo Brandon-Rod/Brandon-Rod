@@ -49,8 +49,6 @@ An app that lets users fetch Amiibo from a RESTful API and store them in SwiftDa
 
 ![List](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/99ecd64e-58c3-447c-8615-e6ea33efc6fa)
 
-![AddedToFavorites](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/afc92d76-8b80-494e-9664-166f63cbaebf)
-
 ![Favorites](https://github.com/Brandon-Rod/Brandon-Rod/assets/61842505/f3289654-c85f-4c4f-9fd9-040b38a99995)
 
 ### Technologies Used
